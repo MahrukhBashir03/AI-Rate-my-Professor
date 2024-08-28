@@ -1,16 +1,22 @@
 {
     "reviews": [
     {
-        "professor": "Dr. Lauren",
-        "subject": "Introduction to Programming",
-        "stars": 4,
-        "review": "Dr. Lauren is an excellent instructor who makes complex topics accessible. The assignments were challenging but rewarding."
+        "professor": "Jane Smith"
+         "subject": "Advanced Calculus",
+        "stars": 4.8,
+        "review":"Professor Smith is incredibly knowledgeable and makes complex concepts easy to understand." 
     },
     {
-        "professor": "Dr. Emily Davis",
+        "professor": "Dr. Emily Johnson",
         "subject": "Advanced Calculus",
-        "stars": 3,
-        "review": "Dr. Davis knows her stuff but her lectures can be monotonous. The course is tough but necessary for advanced studies."
+        "stars": 4.5,
+        "review": "Professor Johnson's lectures are engaging, and she provides excellent support outside of class."
+    },
+    {
+        "professor": "John Doe",
+        "subject": "Advanced Calculus",
+        "stars": 4.7,
+        "review": "Professor Doe is passionate about math and goes above and beyond to help students succeed."
     },
     {
         "professor": "Sarah Lee",
