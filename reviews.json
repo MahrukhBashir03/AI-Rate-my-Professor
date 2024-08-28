@@ -13,22 +13,22 @@
         "review": "Dr. Davis knows her stuff but her lectures can be monotonous. The course is tough but necessary for advanced studies."
     },
     {
-        "professor": "Dr. Sarah Lee",
+        "professor": "Sarah Lee",
         "subject": "Quantum Mechanics",
         "stars": 5,
-        "review": "Dr. Lee is phenomenal. Her passion for quantum mechanics is infectious, and she makes the difficult material engaging and understandable."
+        "review": "Lee is phenomenal. Her passion for quantum mechanics is infectious, and she makes the difficult material engaging and understandable."
     },
     {
-        "professor": "Dr. Laura Green",
+        "professor": "Laura Green",
         "subject": "World History",
         "stars": 4,
-        "review": "Dr. Green is engaging and brings historical events to life. The course is well-organized and not too demanding."
+        "review": "Green is engaging and brings historical events to life. The course is well-organized and not too demanding."
     },
     {
-        "professor": "Dr. Mark Johnson",
+        "professor": "Mark Johnson",
         "subject": "Organic Chemistry",
         "stars": 2,
-        "review": "Dr. Johnson’s lectures are hard to follow, and the course is extremely challenging. I would recommend additional study resources."
+        "review": "Johnson’s lectures are hard to follow, and the course is extremely challenging. I would recommend additional study resources."
     },
     {
         "professor": "Dr. Karen Adams",
@@ -37,10 +37,10 @@
         "review": "Dr. Adams explains economic principles clearly and provides useful real-world examples. The course workload is manageable."
     },
     {
-        "professor": "Dr. Michael Brown",
+        "professor": "Michael Edward",
         "subject": "Introduction to Philosophy",
         "stars": 3,
-        "review": "Dr. Brown is knowledgeable but the course material can be dry. It’s a good class if you are interested in philosophy, but not very interactive."
+        "review": "Edward is knowledgeable but the course material can be dry. It’s a good class if you are interested in philosophy, but not very interactive."
     },
     {
         "professor": "Dr. Jennifer Wilson",
@@ -61,16 +61,16 @@
         "review": "Sara is competent but the course can be quite demanding. The material is useful but requires significant effort."
     },
     {
-        "professor": "Dr. Steven Lewis",
+        "professor": "Steven Lewis",
         "subject": "Biology of Disease",
         "stars": 4,
-        "review": "Dr. Lewis provides a thorough understanding of the subject. The course is challenging but offers great insights into disease mechanisms."
+        "review": "Lewis provides a thorough understanding of the subject. The course is challenging but offers great insights into disease mechanisms."
     },
     {
-        "professor": "Dr. Nancy Walker",
+        "professor": "Nancy Walker",
         "subject": "Introduction to Sociology",
         "stars": 5,
-        "review": "Dr. Walker is fantastic. She brings sociology to life with engaging lectures and meaningful discussions. Highly recommended."
+        "review": "Walker is fantastic. She brings sociology to life with engaging lectures and meaningful discussions. Highly recommended."
     },
     {
         "professor": "Dr. David Thompson",
@@ -79,10 +79,10 @@
         "review": "Dr. Thompson is knowledgeable, but the course is very demanding. It’s worth taking if you’re committed to physics."
     },
     {
-        "professor": "Dr. Amy Turner",
+        "professor": "Amy Turner",
         "subject": "Digital Media",
         "stars": 4,
-        "review": "Dr. Turner is very engaging and provides practical insights into digital media. The projects are interesting and relevant."
+        "review": "Turner is very engaging and provides practical insights into digital media. The projects are interesting and relevant."
     },
     {
         "professor": "Emily Oster",
@@ -97,34 +97,34 @@
         "review": "Dr. Nelson is an expert in her field. The course material is challenging but fascinating, and she is always willing to help."
     },
     {
-        "professor": "Dr. Robert Wright",
+        "professor": "Robert Wright",
         "subject": "Psychology",
         "stars": 3,
-        "review": "Dr. Wright is competent but the lectures can be a bit dry. The course is valuable but requires additional effort outside of class."
+        "review": "Wright is competent but the lectures can be a bit dry. The course is valuable but requires additional effort outside of class."
     },
     {
-        "professor": "Dr. Elizabeth Young",
+        "professor": "Elizabeth Young",
         "subject": "Financial Accounting",
         "stars": 4,
-        "review": "Dr. Young makes accounting principles clear and the course is structured well. Expect a fair amount of work but it’s manageable."
+        "review": "Young makes accounting principles clear and the course is structured well. Expect a fair amount of work but it’s manageable."
     },
     {
-        "professor": "Dr. William Scott",
+        "professor": "William Scott",
         "subject": "Advanced Programming",
         "stars": 5,
-        "review": "Dr. Scott is an excellent teacher who makes complex programming concepts understandable. The course is tough but incredibly rewarding."
+        "review": "Scott is an excellent teacher who makes complex programming concepts understandable. The course is tough but incredibly rewarding."
     },
     {
-        "professor": "Dr. Patricia Harris",
+        "professor": "Patricia Harris",
         "subject": "Political Science",
         "stars": 4,
-        "review": "Dr. Harris is very knowledgeable and the course includes interesting discussions on current events. It’s well worth taking."
+        "review": "Harris is very knowledgeable and the course includes interesting discussions on current events. It’s well worth taking."
     },
     {
-        "professor": "Dr. Thomas Robinson",
+        "professor": "Thomas Robinson",
         "subject": "Introduction to Sociology",
         "stars": 3,
-        "review": "Dr. Robinson covers the basics effectively but the lectures can be somewhat monotonous. It’s a decent introductory course."
+        "review": "Robinson covers the basics effectively but the lectures can be somewhat monotonous. It’s a decent introductory course."
     },
     {
         "professor": "Susan King",
